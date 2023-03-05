@@ -8,6 +8,7 @@ To run the shell, follow these steps:
 - Navigate to the directory containing the source code.
 - Compile the source code using the command gcc shell.c -o shell.
 - Run the shell using the command ./shell.
+
 The shell will display a prompt indicating that it is ready to receive input. Type in a command and press Enter to execute it. To exit the shell, type exit and press Enter.
 
 # Features
